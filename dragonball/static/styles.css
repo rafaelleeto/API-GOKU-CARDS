@@ -1,0 +1,43 @@
+* .bi.bi-search{
+    font-size: xx-large;
+}
+*{
+    font-size: 19px;
+    font-family: Roboto;
+    
+}
+
+.card{
+    border-radius:15px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.borda-filme{
+    border-radius:15px;
+    border: 4px solid #0072ce;
+}
+.container{
+    padding: 15px;
+}
+
+a:hover{
+    transform:scale(1.2)
+
+}
+a {
+    display: inline-block; /* Para garantir que o transform funcione bem */
+    transition: transform 0.3s ease; /* Animação suave */
+  }
+
+input{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+button{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
